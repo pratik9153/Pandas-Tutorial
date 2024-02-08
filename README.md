@@ -2,11 +2,11 @@
 
 This repository features various pandas functions I've acquired knowledge about. The tutorial is designed to be beginner-friendly, offering comprehensive insights into pandas functionalities.
 
-#What's pandas?
+# What's pandas?
 
 Pandas is a powerful open-source data manipulation and analysis library for Python, widely used for handling structured data and performing data operations efficiently.
 
-#why to learn pandas?
+# why to learn pandas?
 
 1.Data Manipulation: Pandas provides easy-to-use data structures like DataFrame and Series, which allow for efficient manipulation of structured data.
 
